@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7653" started-at="2013-11-27T22:14:45Z" finished-at="2013-11-27T22:14:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7653" started-at="2013-11-27T22:14:45Z" finished-at="2013-11-27T22:14:53Z">
+      <class name="CityDataScraper">
+        <test-method status="PASS" signature="setUpTest()[pri:0, instance:CityDataScraper@6ee0a386]" name="setUpTest" is-config="true" duration-ms="8" started-at="2013-11-27T14:14:45Z" finished-at="2013-11-27T14:14:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method status="PASS" signature="clickOnSomething()[pri:0, instance:CityDataScraper@6ee0a386]" name="clickOnSomething" duration-ms="7644" started-at="2013-11-27T14:14:45Z" finished-at="2013-11-27T14:14:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSomething -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:CityDataScraper@6ee0a386]" name="tearDown" is-config="true" duration-ms="80" started-at="2013-11-27T14:14:53Z" finished-at="2013-11-27T14:14:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- CityDataScraper -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
